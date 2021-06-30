@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChristopherCodes9
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning Javascript!
+- 💞️ I’m looking to collaborate on data manipulation!
+- 📫 How to reach me: (931) 6375292
